@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Member From Class: ClassName=MCU Member=C4
+Removed Member From Class: ClassName=MCU Member=X1
+Change Component Footprint: Designator=U1 Old Footprint=STM-DIP-16L New Footprint=STM-DIP-16L
+Change Component Designator: OldDesignator=X2 NewDesignator=X5
+Change Component Designator: OldDesignator=X3 NewDesignator=X2
+Change Component Designator: OldDesignator=X4 NewDesignator=X7
+Change Component Designator: OldDesignator=X5 NewDesignator=X8
+Change Component Designator: OldDesignator=X6 NewDesignator=X10
+Change Component Designator: OldDesignator=X7 NewDesignator=X12
+Change Component Designator: OldDesignator=X8 NewDesignator=X13
+Change Component Designator: OldDesignator=X9 NewDesignator=X3
+Change Component Designator: OldDesignator=X10 NewDesignator=X15
+Change Component Designator: OldDesignator=X11 NewDesignator=X4
+Change Component Designator: OldDesignator=X12 NewDesignator=X6
+Change Component Designator: OldDesignator=X13 NewDesignator=X9
+Change Component Designator: OldDesignator=X14 NewDesignator=X11
+Change Component Designator: OldDesignator=X15 NewDesignator=X14
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=NetA1_1 Pin=U1-7
+Added Net: Name=NetA1_1
+Added Pin To Net: NetName=NetA1_2 Pin=A1-2
+Added Pin To Net: NetName=NetA1_2 Pin=U1-6
+Added Net: Name=NetA1_2
+Added Pin To Net: NetName=NetA1_3 Pin=A1-3
+Added Pin To Net: NetName=NetA1_3 Pin=U1-5
+Added Net: Name=NetA1_3
+Added Pin To Net: NetName=NetA1_4 Pin=A1-4
+Added Pin To Net: NetName=NetA1_4 Pin=U1-4
+Added Net: Name=NetA1_4
+Added Pin To Net: NetName=NetA1_5 Pin=A1-5
+Added Pin To Net: NetName=NetA1_5 Pin=U1-3
+Added Net: Name=NetA1_5
+Added Pin To Net: NetName=NetA1_6 Pin=A1-6
+Added Pin To Net: NetName=NetA1_6 Pin=U1-2
+Added Net: Name=NetA1_6
+Added Pin To Net: NetName=NetA1_7 Pin=A1-7
+Added Pin To Net: NetName=NetA1_7 Pin=U1-1
+Added Net: Name=NetA1_7
+Added Member To Class: ClassName=Seq Member=Component C3 Aluminium capacitor, 330?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=MCU Member=Component C6 Ceramic capacitor, 1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component R3 Resistor film, 51k, , 1206, 0.25W, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component U2 MCP1415T-E/OT
+Added Member To Class: ClassName=MCU Member=Component U3 MCP1415T-E/OT
+Added Member To Class: ClassName=MCU Member=Component VD2 Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C
+Added Member To Class: ClassName=MCU Member=Component X4 Connector, 6pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=MCU Member=Component X15 Connector, 6pin, 2.54mm, 500VAC, 3A
+Added Room: Name=Seq

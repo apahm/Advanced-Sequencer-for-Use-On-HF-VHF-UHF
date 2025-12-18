@@ -1,0 +1,119 @@
+Removed Pin From Net: NetName=GND Pin=U2-8
+Removed Pin From Net: NetName=+12 Pin=U2-9
+Removed Pin From Net: NetName=NetK7_1 Pin=U2-10
+Removed Pin From Net: NetName=NetK6_1 Pin=U2-11
+Removed Pin From Net: NetName=NetK5_1 Pin=U2-12
+Removed Pin From Net: NetName=NetK4_1 Pin=U2-13
+Removed Pin From Net: NetName=NetK3_1 Pin=U2-14
+Removed Pin From Net: NetName=NetK2_1 Pin=U2-15
+Removed Pin From Net: NetName=NetK1_1 Pin=U2-16
+Removed Member From Class: ClassName=MCU Member=U4
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C11 NewDesignator=C5
+Change Component Designator: OldDesignator=C12 NewDesignator=C6
+Change Component Designator: OldDesignator=C13 NewDesignator=C7
+Change Component Designator: OldDesignator=C14 NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=L2 NewDesignator=L1
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD1
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD2
+Change Component Designator: OldDesignator=X4 NewDesignator=X1
+Change Component Designator: OldDesignator=X8 NewDesignator=X3
+Change Component Designator: OldDesignator=X10 NewDesignator=X11
+Change Component Designator: OldDesignator=X11 NewDesignator=X2
+Change Component Designator: OldDesignator=X13 NewDesignator=X4
+Change Component Designator: OldDesignator=X14 NewDesignator=X5
+Change Component Designator: OldDesignator=X15 NewDesignator=X13
+Change Component Designator: OldDesignator=X16 NewDesignator=X6
+Change Component Designator: OldDesignator=X17 NewDesignator=X14
+Change Component Designator: OldDesignator=X18 NewDesignator=X7
+Change Component Designator: OldDesignator=X19 NewDesignator=X8
+Change Component Designator: OldDesignator=X20 NewDesignator=X15
+Change Component Designator: OldDesignator=X21 NewDesignator=X10
+Added Component: Designator=U1(STM-DIP-16L)
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage V(br)ceo"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www2.st.com/content/ccc/resource/technical/document/datasheet/f3/6e/c8/64/4d/b3/4e/38/CD00001244.pdf/files/CD00001244.pdf/jcr:content/translations/en.CD00001244.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 8, 06/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Collector Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current Gain hFE"; Value = "1000hFE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL2-1year"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "16Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "16-Pin DIP, Body 19.7 x 7.1 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "DIP-16L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ULN2003A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation Pd"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "NoSVHC(17-Dec-2015)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Case Style"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOUT"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=+12 Pin=U1-9
+Added Pin To Net: NetName=NetK7_1 Pin=U1-10
+Added Pin To Net: NetName=NetK6_1 Pin=U1-11
+Added Pin To Net: NetName=NetK5_1 Pin=U1-12
+Added Pin To Net: NetName=NetK4_1 Pin=U1-13
+Added Pin To Net: NetName=NetK3_1 Pin=U1-14
+Added Pin To Net: NetName=NetK2_1 Pin=U1-15
+Added Pin To Net: NetName=NetK1_1 Pin=U1-16
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetU3_5 New Net Name=NetU2_5
+Change Net Name : Old Net Name=NetU4_5 New Net Name=NetU3_5
+Added Pin To Net: NetName=NetA1_33 Pin=A1-33
+Added Pin To Net: NetName=NetA1_33 Pin=U1-1
+Added Net: Name=NetA1_33
+Added Pin To Net: NetName=NetA1_35 Pin=A1-35
+Added Pin To Net: NetName=NetA1_35 Pin=U1-2
+Added Net: Name=NetA1_35
+Added Pin To Net: NetName=NetA1_37 Pin=A1-37
+Added Pin To Net: NetName=NetA1_37 Pin=U1-3
+Added Net: Name=NetA1_37
+Added Pin To Net: NetName=NetA1_39 Pin=A1-39
+Added Pin To Net: NetName=NetA1_39 Pin=U1-4
+Added Net: Name=NetA1_39
+Added Pin To Net: NetName=NetA1_41 Pin=A1-41
+Added Pin To Net: NetName=NetA1_41 Pin=U1-5
+Added Net: Name=NetA1_41
+Added Pin To Net: NetName=NetA1_43 Pin=A1-43
+Added Pin To Net: NetName=NetA1_43 Pin=U1-6
+Added Net: Name=NetA1_43
+Added Pin To Net: NetName=NetA1_45 Pin=A1-45
+Added Pin To Net: NetName=NetA1_45 Pin=U1-7
+Added Net: Name=NetA1_45
+Added Member To Class: ClassName=MCU Member=Component A1 ARDUINO_MEGA_2560_REV3_A000067_1
+Added Member To Class: ClassName=MCU Member=Component K7 Electromechanics relay, 3VDC, 125VAC, 2A, 2NO+2NC, -40...+85°C
+Added Member To Class: ClassName=MCU Member=Component U1 ULN2003A
+Added Member To Class: ClassName=MCU Member=Component X2 Connector, 6pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=MCU Member=Component X3 Connector, 10pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=MCU Member=Component X5 Connector, 6pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=MCU Member=Component X9 Connector, 6pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=MCU Member=Component X11 Connector, 6pin, 2.54mm, 500VAC, 3A
+Added Room: Name=MCU
+Added Room: Name=Seq
