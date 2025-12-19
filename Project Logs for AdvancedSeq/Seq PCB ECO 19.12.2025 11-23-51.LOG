@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=Ext_PTT_and_Indication Member=C14
+Removed Member From Class: ClassName=Power_Supply Member=C16
+Removed Member From Class: ClassName=Power_Supply Member=VD2
+Removed Member From Class: ClassName=JTAG_Connector Member=X8
+Removed Member From Class: ClassName=MCU Member=X8
+Change Component Footprint: Designator=IC? Old Footprint=D0014A_N New Footprint=D0014A_N
+Change Component Footprint: Designator=U4 Old Footprint=FP-DW0024A-MFG New Footprint=FP-DW0024A-MFG
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Net Name : Old Net Name=NetIC?_2 New Net Name=NetIC1_2
+Change Net Name : Old Net Name=NetIC?_4 New Net Name=NetIC1_4
+Added Member To Class: ClassName=MCU Member=Component C1 Ceramic capacitor, 0.1 uF, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C2 Ceramic capacitor, 0.1 uF, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C5 Ceramic capacitor, 0.1 uF, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C11 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Ext_PTT_and_Indication Member=Component C15 Ceramic capacitor, 1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=Power_Supply Member=Component C20 Aluminium capacitor, 680?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Power_Supply Member=Component C21 Aluminium capacitor, 220?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Ext_PTT_and_Indication Member=Component R5 Resistor film, 220R, , 1206, 0.25W, -55...+125°C
+Added Member To Class: ClassName=Ext_PTT_and_Indication Member=Component R6 Resistor film, 220R, , 1206, 0.25W, -55...+125°C
+Added Member To Class: ClassName=Ext_PTT_and_Indication Member=Component R7 Resistor film, 220R, , 1206, 0.25W, -55...+125°C
+Added Member To Class: ClassName=Ext_PTT_and_Indication Member=Component R8 Resistor film, 220R, , 1206, 0.25W, -55...+125°C
+Added Member To Class: ClassName=Ext_PTT_and_Indication Member=Component R9 Resistor film, 220R, , 1206, 0.25W, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component U3 STM32F407VET6
+Added Member To Class: ClassName=Ext_PTT_and_Indication Member=Component U4 SN74LVC4245ADW
+Added Member To Class: ClassName=Power_Supply Member=Component VD4 Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150°C
+Added Member To Class: ClassName=Relay Member=Component X6 Connector, 6pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Relay Member=Component X8 Connector, 6pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=MCU Member=Component X10 USB mini B
+Added Member To Class: ClassName=Ext_PTT_and_Indication Member=Component X11 Connector, 6pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Ext_PTT_and_Indication Member=Component X13 Connector, 6pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=JTAG_Connector Member=Component X15 Connector, 20pin, 2.54mm, 250VAC, 3A
+Added Room: Name=Ext_PTT_and_Indication
+Added Room: Name=JTAG_Connector
+Added Room: Name=MCU
+Added Room: Name=Power_Supply
+Added Room: Name=Relay
