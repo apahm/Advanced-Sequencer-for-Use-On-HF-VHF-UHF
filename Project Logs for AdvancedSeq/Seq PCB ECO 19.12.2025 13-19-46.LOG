@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetR9_2 Pin=X13-1
+Removed Pin From Net: NetName=GND Pin=X13-2
+Removed Pin From Net: NetName=NetR10_2 Pin=X13-3
+Removed Pin From Net: NetName=GND Pin=X13-4
+Removed Pin From Net: NetName=NetR11_2 Pin=X13-5
+Removed Pin From Net: NetName=GND Pin=X13-6
+Removed Pin From Net: NetName=NetR12_2 Pin=X13-7
+Removed Pin From Net: NetName=GND Pin=X13-8
+Removed Member From Class: ClassName=Ext_PTT_and_Indication Member=X13
+Change Component Footprint: Designator=X12 Old Footprint=2EDGR-5.08-08P New Footprint=CON: IDC-16MS
+Change Component Comment : Designator=X12 Old Comment=Connector, 6pin, 2.54mm, 500VAC, 3A New Comment=Connector, 16pin, 2.54mm, 250VAC, 3A
+Change Component Designator: OldDesignator=X14 NewDesignator=X13
+Change Component Designator: OldDesignator=X15 NewDesignator=X14
+Change component parameters: Designator = "X12" ("X12"); Footprint = "2EDGR-5.08-08P"; UniqueID = "\LTDEDUYS" ("\LTDEDUYS")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/idc-16ms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "16pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "IDC-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 16pin, 2.54mm, 250VAC, 3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR9_2 Pin=X12-9
+Added Pin To Net: NetName=GND Pin=X12-10
+Added Pin To Net: NetName=NetR10_2 Pin=X12-11
+Added Pin To Net: NetName=GND Pin=X12-12
+Added Pin To Net: NetName=NetR11_2 Pin=X12-13
+Added Pin To Net: NetName=GND Pin=X12-14
+Added Pin To Net: NetName=NetR12_2 Pin=X12-15
+Added Pin To Net: NetName=GND Pin=X12-16
+Added Room: Name=Ext_PTT_and_Indication
