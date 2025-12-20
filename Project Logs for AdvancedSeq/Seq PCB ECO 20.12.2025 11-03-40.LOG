@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=NetU2_3 Pin=U3-87
-Removed Pin From Net: NetName=NetU2_4 Pin=U3-88
-Added Pin To Net: NetName=NetU2_4 Pin=U3-87
-Added Pin To Net: NetName=NetU2_3 Pin=U3-88
-Added Room: Name=Ext_PTT_and_Indication
-Added Room: Name=JTAG_Connector
-Added Room: Name=MCU
-Added Room: Name=Power_Supply
-Added Room: Name=Relay

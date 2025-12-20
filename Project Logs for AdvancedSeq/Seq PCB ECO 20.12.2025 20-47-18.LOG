@@ -1,6 +1,0 @@
-Change Component Footprint: Designator=U4 Old Footprint=WINB-SOIC-8_N New Footprint=8-SOIC
-Added Room: Name=Ext_PTT_and_Indication
-Added Room: Name=JTAG_Connector
-Added Room: Name=MCU
-Added Room: Name=Power_Supply
-Added Room: Name=Relay
