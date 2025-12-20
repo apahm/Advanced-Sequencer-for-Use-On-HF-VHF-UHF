@@ -1,5 +1,1 @@
-Record=TopLevelDocument|FileName=Ext_PTT_and_Indication.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Ext_PTT_and_Indication.SchDoc|FileName=JTAG_Connector.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Ext_PTT_and_Indication.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Ext_PTT_and_Indication.SchDoc|FileName=Power_Supply.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Ext_PTT_and_Indication.SchDoc|FileName=Relay.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Ext_PTT_and_Indication.SchDoc
