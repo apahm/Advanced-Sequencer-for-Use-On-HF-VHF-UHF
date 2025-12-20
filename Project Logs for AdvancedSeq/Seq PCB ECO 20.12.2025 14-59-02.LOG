@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=+5 Pin=R1-2
+Removed Pin From Net: NetName=+5 Pin=R3-2
+Removed Member From Class: ClassName=MCU Member=C20
+Removed Member From Class: ClassName=Ext_PTT_and_Indication Member=C23
+Removed Member From Class: ClassName=MCU Member=U6
+Added Pin To Net: NetName=+3V3 Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=R3-2
+Added Member To Class: ClassName=MCU Member=Component C4 Ceramic capacitor, 0.1 uF, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C5 Ceramic capacitor, 0.1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C7 Ceramic capacitor, 22 pF, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C8 Ceramic capacitor, 2.2 ?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C10 Ceramic capacitor, 0.1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C11 Ceramic capacitor, 0.1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C13 Ceramic capacitor, 0.1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C15 Ceramic capacitor, 0.1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C17 Ceramic capacitor, 0.1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=MCU Member=Component C19 Ceramic capacitor, 0.1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=Ext_PTT_and_Indication Member=Component C21 Ceramic capacitor, 1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=Ext_PTT_and_Indication Member=Component C22 Ceramic capacitor, 0.1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=Power_Supply Member=Component C24 Ceramic capacitor, 0.1?F, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=Power_Supply Member=Component C25 Aluminium capacitor, 680?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Power_Supply Member=Component C26 Aluminium capacitor, 680?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Power_Supply Member=Component C27 Aluminium capacitor, 220?F, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=MCU Member=Component U4 W25Q128FVSIG
+Added Member To Class: ClassName=Power_Supply Member=Component U5 LM2596SX-12/NOPB
+Added Room: Name=Ext_PTT_and_Indication
+Added Room: Name=JTAG_Connector
+Added Room: Name=MCU
+Added Room: Name=Power_Supply
+Added Room: Name=Relay
