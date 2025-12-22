@@ -1,0 +1,53 @@
+Added Pin To Net: NetName=NetU7_1 Pin=U7-1
+Added Pin To Net: NetName=NetU7_1 Pin=U8-4
+Added Net: Name=NetU7_1
+Added Pin To Net: NetName=NetU7_2 Pin=U7-2
+Added Pin To Net: NetName=NetU7_2 Pin=U8-5
+Added Net: Name=NetU7_2
+Added Pin To Net: NetName=NetU7_3 Pin=U7-3
+Added Pin To Net: NetName=NetU7_3 Pin=U8-6
+Added Net: Name=NetU7_3
+Added Pin To Net: NetName=NetU7_4 Pin=U7-4
+Added Pin To Net: NetName=NetU7_4 Pin=U8-7
+Added Net: Name=NetU7_4
+Added Pin To Net: NetName=NetU7_5 Pin=U7-5
+Added Pin To Net: NetName=NetU7_5 Pin=U8-8
+Added Net: Name=NetU7_5
+Added Pin To Net: NetName=NetU7_6 Pin=U7-6
+Added Pin To Net: NetName=NetU7_6 Pin=U8-9
+Added Net: Name=NetU7_6
+Added Pin To Net: NetName=NetU7_7 Pin=U7-7
+Added Pin To Net: NetName=NetU7_7 Pin=U8-10
+Added Net: Name=NetU7_7
+Added Pin To Net: NetName=NetU7_15 Pin=U7-15
+Added Pin To Net: NetName=NetU7_15 Pin=U8-3
+Added Net: Name=NetU7_15
+Added Pin To Net: NetName=NetU9_1 Pin=U9-1
+Added Pin To Net: NetName=NetU9_1 Pin=U10-4
+Added Net: Name=NetU9_1
+Added Pin To Net: NetName=NetU9_2 Pin=U9-2
+Added Pin To Net: NetName=NetU9_2 Pin=U10-5
+Added Net: Name=NetU9_2
+Added Pin To Net: NetName=NetU9_3 Pin=U9-3
+Added Pin To Net: NetName=NetU9_3 Pin=U10-6
+Added Net: Name=NetU9_3
+Added Pin To Net: NetName=NetU9_4 Pin=U9-4
+Added Pin To Net: NetName=NetU9_4 Pin=U10-7
+Added Net: Name=NetU9_4
+Added Pin To Net: NetName=NetU9_5 Pin=U9-5
+Added Pin To Net: NetName=NetU9_5 Pin=U10-8
+Added Net: Name=NetU9_5
+Added Pin To Net: NetName=NetU9_6 Pin=U9-6
+Added Pin To Net: NetName=NetU9_6 Pin=U10-9
+Added Net: Name=NetU9_6
+Added Pin To Net: NetName=NetU9_7 Pin=U9-7
+Added Pin To Net: NetName=NetU9_7 Pin=U10-10
+Added Net: Name=NetU9_7
+Added Pin To Net: NetName=NetU9_15 Pin=U9-15
+Added Pin To Net: NetName=NetU9_15 Pin=U10-3
+Added Net: Name=NetU9_15
+Added Room: Name=Ext_PTT_and_Indication
+Added Room: Name=MCU
+Added Room: Name=Power_Supply
+Added Room: Name=Relay
+Added Room: Name=Shift_Regs

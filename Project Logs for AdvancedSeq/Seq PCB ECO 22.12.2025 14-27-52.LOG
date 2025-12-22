@@ -1,0 +1,164 @@
+Change Component Footprint: Designator=U? Old Footprint=FP-SOT109-1-MFG New Footprint=FP-SOT109-1-MFG
+Change Component Footprint: Designator=U? Old Footprint=FP-SOT109-1-MFG New Footprint=FP-SOT109-1-MFG
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Change Component Designator: OldDesignator=X10 NewDesignator=X8
+Change Component Designator: OldDesignator=X11 NewDesignator=X9
+Change Component Designator: OldDesignator=X12 NewDesignator=X10
+Change Component Designator: OldDesignator=X13 NewDesignator=X11
+Change Component Designator: OldDesignator=X14 NewDesignator=X12
+Added Component: Designator=U8(FP-DW0024A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-24mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Translator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "24mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Current"; Value = "80uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Voltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "9.8ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "80uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "74LVC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "6.7ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.022025oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "7.52mm"; VariantName = "[No Variations]"
+Added Component: Designator=U10(FP-DW0024A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-24mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Translator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "24mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Current"; Value = "80uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Voltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "9.8ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "80uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "74LVC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "6.7ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.022025oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "7.52mm"; VariantName = "[No Variations]"
+Added Component: Designator=X13(CON: IDC-10MS)
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/idc-10ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "10pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "IDC-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 10pin, 2.54mm, 250VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X14(CON: IDC-10MS)
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/idc-10ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "10pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "IDC-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 10pin, 2.54mm, 250VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU7_1 Pin=U7-1
+Added Pin To Net: NetName=NetU7_1 Pin=U8-4
+Added Net: Name=NetU7_1
+Added Pin To Net: NetName=NetU7_2 Pin=U7-2
+Added Pin To Net: NetName=NetU7_2 Pin=U8-5
+Added Net: Name=NetU7_2
+Added Pin To Net: NetName=NetU7_3 Pin=U7-3
+Added Pin To Net: NetName=NetU7_3 Pin=U8-6
+Added Net: Name=NetU7_3
+Added Pin To Net: NetName=NetU7_4 Pin=U7-4
+Added Pin To Net: NetName=NetU7_4 Pin=U8-7
+Added Net: Name=NetU7_4
+Added Pin To Net: NetName=NetU7_5 Pin=U7-5
+Added Pin To Net: NetName=NetU7_5 Pin=U8-8
+Added Net: Name=NetU7_5
+Added Pin To Net: NetName=NetU7_6 Pin=U7-6
+Added Pin To Net: NetName=NetU7_6 Pin=U8-9
+Added Net: Name=NetU7_6
+Added Pin To Net: NetName=NetU7_7 Pin=U7-7
+Added Pin To Net: NetName=NetU7_7 Pin=U8-10
+Added Net: Name=NetU7_7
+Added Pin To Net: NetName=NetU7_15 Pin=U7-15
+Added Pin To Net: NetName=NetU7_15 Pin=U8-3
+Added Net: Name=NetU7_15
+Added Pin To Net: NetName=NetU10_14 Pin=U10-14
+Added Pin To Net: NetName=NetU10_14 Pin=X14-8
+Added Net: Name=NetU10_14
+Added Pin To Net: NetName=NetU10_15 Pin=U10-15
+Added Pin To Net: NetName=NetU10_15 Pin=X14-7
+Added Net: Name=NetU10_15
+Added Pin To Net: NetName=NetU10_16 Pin=U10-16
+Added Pin To Net: NetName=NetU10_16 Pin=X14-6
+Added Net: Name=NetU10_16
+Added Pin To Net: NetName=NetU10_17 Pin=U10-17
+Added Pin To Net: NetName=NetU10_17 Pin=X14-5
+Added Net: Name=NetU10_17
+Added Pin To Net: NetName=NetU10_18 Pin=U10-18
+Added Pin To Net: NetName=NetU10_18 Pin=X14-4
+Added Net: Name=NetU10_18
+Added Pin To Net: NetName=NetU10_19 Pin=U10-19
+Added Pin To Net: NetName=NetU10_19 Pin=X14-3
+Added Net: Name=NetU10_19
+Added Pin To Net: NetName=NetU10_20 Pin=U10-20
+Added Pin To Net: NetName=NetU10_20 Pin=X14-2
+Added Net: Name=NetU10_20
+Added Pin To Net: NetName=NetU10_21 Pin=U10-21
+Added Pin To Net: NetName=NetU10_21 Pin=X14-1
+Added Net: Name=NetU10_21
+Added Member To Class: ClassName=Shift_Regs Member=Component U8 SN74LVC4245ADW
+Added Member To Class: ClassName=Shift_Regs Member=Component U9 74HC595D,118
+Added Member To Class: ClassName=Shift_Regs Member=Component U10 SN74LVC4245ADW
+Added Member To Class: ClassName=Shift_Regs Member=Component X13 Connector, 10pin, 2.54mm, 250VAC, 3A
+Added Member To Class: ClassName=Shift_Regs Member=Component X14 Connector, 10pin, 2.54mm, 250VAC, 3A
+Added Room: Name=Ext_PTT_and_Indication
+Added Room: Name=JTAG_Connector
+Added Room: Name=MCU
+Added Room: Name=Power_Supply
+Added Room: Name=Relay
+Added Room: Name=Shift_Regs

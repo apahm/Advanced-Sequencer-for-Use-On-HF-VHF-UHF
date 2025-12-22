@@ -1,0 +1,34 @@
+Removed Member From Class: ClassName=JTAG_Connector Member=X10
+Removed Member From Class: ClassName=Shift_Regs Member=X10
+Removed Member From Class: ClassName=Shift_Regs Member=X11
+Change Component Footprint: Designator=U8 Old Footprint=FP-DW0024A-MFG New Footprint=FP-DW0024A-MFG
+Change Component Footprint: Designator=U10 Old Footprint=FP-DW0024A-MFG New Footprint=FP-DW0024A-MFG
+Added Pin To Net: NetName=NetU8_14 Pin=U8-14
+Added Pin To Net: NetName=NetU8_14 Pin=X13-8
+Added Net: Name=NetU8_14
+Added Pin To Net: NetName=NetU8_15 Pin=U8-15
+Added Pin To Net: NetName=NetU8_15 Pin=X13-7
+Added Net: Name=NetU8_15
+Added Pin To Net: NetName=NetU8_16 Pin=U8-16
+Added Pin To Net: NetName=NetU8_16 Pin=X13-6
+Added Net: Name=NetU8_16
+Added Pin To Net: NetName=NetU8_17 Pin=U8-17
+Added Pin To Net: NetName=NetU8_17 Pin=X13-5
+Added Net: Name=NetU8_17
+Added Pin To Net: NetName=NetU8_18 Pin=U8-18
+Added Pin To Net: NetName=NetU8_18 Pin=X13-4
+Added Net: Name=NetU8_18
+Added Pin To Net: NetName=NetU8_19 Pin=U8-19
+Added Pin To Net: NetName=NetU8_19 Pin=X13-3
+Added Net: Name=NetU8_19
+Added Pin To Net: NetName=NetU8_20 Pin=U8-20
+Added Pin To Net: NetName=NetU8_20 Pin=X13-2
+Added Net: Name=NetU8_20
+Added Pin To Net: NetName=NetU8_21 Pin=U8-21
+Added Pin To Net: NetName=NetU8_21 Pin=X13-1
+Added Net: Name=NetU8_21
+Added Member To Class: ClassName=Shift_Regs Member=Component U7 74HC595D,118
+Added Member To Class: ClassName=JTAG_Connector Member=Component X12 Connector, 20pin, 2.54mm, 250VAC, 3A
+Added Member To Class: ClassName=Shift_Regs Member=Component X13 Connector, 10pin, 2.54mm, 250VAC, 3A
+Added Member To Class: ClassName=Shift_Regs Member=Component X14 Connector, 10pin, 2.54mm, 250VAC, 3A
+Added Room: Name=Shift_Regs
