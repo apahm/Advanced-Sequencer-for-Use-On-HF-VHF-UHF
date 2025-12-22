@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AdvancedSeq.PrjPcb]
+   Generated File[Seq.TXT]
+   Generated File[Seq.LDP]
+   Generated File[Seq.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:57:32 On 22.12.2025
