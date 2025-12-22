@@ -1562,74 +1562,78 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for AdvancedSeq\Seq.DRR
+DocumentPath=Project Outputs for AdvancedSeq\Design Rule Check - Seq.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for AdvancedSeq\Seq.EXTREP
+DocumentPath=Project Outputs for AdvancedSeq\Seq.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for AdvancedSeq\Seq.LDP
+DocumentPath=Project Outputs for AdvancedSeq\Seq.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for AdvancedSeq\Seq.REP
+DocumentPath=Project Outputs for AdvancedSeq\Seq.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for AdvancedSeq\Seq.TXT
+DocumentPath=Project Outputs for AdvancedSeq\Seq.REP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_Legend_Bot.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_Legend_Top.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_NPTH_Drill.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_Paste_Bot.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_Paste_Top.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_Profile.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_PTH_Drill.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for AdvancedSeq\Seq_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for AdvancedSeq\Seq_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Project Outputs for AdvancedSeq\Seq_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=Project Outputs for AdvancedSeq\Seq_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -1886,7 +1890,7 @@ OutputDefault5=0
 Configuration5_Name1=ForceUpdateSettings
 Configuration5_Item1=False
 Configuration5_Name2=OutputConfigurationParameter1
-Configuration5_Item2=BoardID=AWNIBILX|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName=Seq_Profile.gbr|PlotCounterHolesPairs=False|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_Checked=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_FileName=Seq_Drawing_1.gbr|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_Checked=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_FileName=Seq_Drillmap_1.gbr|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UserLayerName.Caption0=Seq_Bottom_3D_Body.gbr|UserLayerName.Caption1=Seq_Paste_Top.gbr|UserLayerName.Caption10=Seq_Copper_Signal_2.gbr|UserLayerName.Caption11=Seq_Soldermask_Bot.gbr|UserLayerName.Caption12=Seq_Copper_Signal_Bot.gbr|UserLayerName.Caption13=Seq_Top_Assembly.gbr|UserLayerName.Caption14=Seq_Mechanical_15.gbr|UserLayerName.Caption15=Seq_Copper_Signal_Top.gbr|UserLayerName.Caption16=Seq_Legend_Bot.gbr|UserLayerName.Caption17=Seq_Pads_Top.gbr|UserLayerName.Caption18=Seq_Mechanical_13.gbr|UserLayerName.Caption19=Seq_Bottom_Courtyard.gbr|UserLayerName.Caption2=Seq_Legend_Top.gbr|UserLayerName.Caption20=Seq_Mechanical_1.gbr|UserLayerName.Caption21=Seq_Bottom_Component_Center.gbr|UserLayerName.Caption22=Seq_Top_Courtyard.gbr|UserLayerName.Caption23=Seq_Bottom_Assembly.gbr|UserLayerName.Caption24=Seq_Paste_Bot.gbr|UserLayerName.Caption3=Seq_Soldermask_Top.gbr|UserLayerName.Caption4=Seq_Pads_Bot.gbr|UserLayerName.Caption5=Seq_Top_3D_Body.gbr|UserLayerName.Caption6=Seq_Keep-out.gbr|UserLayerName.Caption7=Seq_Copper_Signal_1.gbr|UserLayerName.Caption8=Seq_Mechanical_7.gbr|UserLayerName.Caption9=Seq_Top_Component_Center.gbr|UserLayerName.Count=25|UserLayerName.Layer0=16908311|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16777219|UserLayerName.Layer11=16973835|UserLayerName.Layer12=16842751|UserLayerName.Layer13=16908293|UserLayerName.Layer14=16908303|UserLayerName.Layer15=16777217|UserLayerName.Layer16=16973831|UserLayerName.Layer17=16973848|UserLayerName.Layer18=16908301|UserLayerName.Layer19=16908309|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908289|UserLayerName.Layer21=16908312|UserLayerName.Layer22=16908291|UserLayerName.Layer23=16908308|UserLayerName.Layer24=16973833|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16973849|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973837|UserLayerName.Layer7=16777218|UserLayerName.Layer8=16908295|UserLayerName.Layer9=16908304|DocumentPath=C:\Advanced-Sequencer-for-Use-On-HF-VHF-UHF\Seq.PcbDoc
+Configuration5_Item2=BoardID=AWNIBILX|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName=Seq_Profile.gbr|PlotCounterHolesPairs=False|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_Checked=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_FileName=Seq_Drawing_1.gbr|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_Checked=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_FileName=Seq_Drillmap_1.gbr|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UserLayerName.Caption0=Seq_Bottom_3D_Body.gbr|UserLayerName.Caption1=Seq_Paste_Top.gbr|UserLayerName.Caption10=Seq_Copper_Signal_2.gbr|UserLayerName.Caption11=Seq_Mechanical_7.gbr|UserLayerName.Caption12=Seq_Copper_Signal_Bot.gbr|UserLayerName.Caption13=Seq_Top_Assembly.gbr|UserLayerName.Caption14=Seq_Mechanical_15.gbr|UserLayerName.Caption15=Seq_Copper_Signal_Top.gbr|UserLayerName.Caption16=Seq_Legend_Bot.gbr|UserLayerName.Caption17=Seq_Pads_Top.gbr|UserLayerName.Caption18=Seq_Mechanical_13.gbr|UserLayerName.Caption19=Seq_Bottom_Courtyard.gbr|UserLayerName.Caption2=Seq_Legend_Top.gbr|UserLayerName.Caption20=Seq_Mechanical_1.gbr|UserLayerName.Caption21=Seq_Bottom_Component_Center.gbr|UserLayerName.Caption22=Seq_Top_Courtyard.gbr|UserLayerName.Caption23=Seq_Bottom_Assembly.gbr|UserLayerName.Caption24=Seq_Keep-out.gbr|UserLayerName.Caption3=Seq_Soldermask_Top.gbr|UserLayerName.Caption4=Seq_Pads_Bot.gbr|UserLayerName.Caption5=Seq_Top_3D_Body.gbr|UserLayerName.Caption6=Seq_Paste_Bot.gbr|UserLayerName.Caption7=Seq_Copper_Signal_1.gbr|UserLayerName.Caption8=Seq_Soldermask_Bot.gbr|UserLayerName.Caption9=Seq_Top_Component_Center.gbr|UserLayerName.Count=25|UserLayerName.Layer0=16908311|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16777219|UserLayerName.Layer11=16908295|UserLayerName.Layer12=16842751|UserLayerName.Layer13=16908293|UserLayerName.Layer14=16908303|UserLayerName.Layer15=16777217|UserLayerName.Layer16=16973831|UserLayerName.Layer17=16973848|UserLayerName.Layer18=16908301|UserLayerName.Layer19=16908309|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908289|UserLayerName.Layer21=16908312|UserLayerName.Layer22=16908291|UserLayerName.Layer23=16908308|UserLayerName.Layer24=16973837|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16973849|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973833|UserLayerName.Layer7=16777218|UserLayerName.Layer8=16973835|UserLayerName.Layer9=16908304|DocumentPath=C:\Advanced-Sequencer-for-Use-On-HF-VHF-UHF\Seq.PcbDoc
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=

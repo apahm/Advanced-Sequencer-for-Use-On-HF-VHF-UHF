@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Seq.PcbDoc   22.12.2025  11:57:32
+NCDrill File Report For: Seq.PcbDoc   22.12.2025  14:00:26
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,13 +7,13 @@ ASCII RoundHoles File : Seq.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             103       PTH        849.33mm (33.44inch)
+T1      0.3mm (12mil)                                             Round             118       PTH        929.64mm (36.60inch)
 T2      1mm (39mil)                                               Round             74        PTH        707.84mm (27.87inch)
 T3      1.1mm (43mil)                                             Round             36        PTH        158.67mm (6.25inch)
 T4      1.2mm (47mil)                                             Round             2         PTH        3.50mm (0.14inch)
 T5      1.5mm (59mil)                                             Round             30        PTH        333.55mm (13.13inch)
 T6      4.2mm (165mil)                                            Round             4         PTH        487.65mm (19.20inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              249
+Totals                                                                              264
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
