@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=GND Pin=U10-13
-Added Room: Name=Ext_PTT_and_Indication
-Added Room: Name=JTAG_Connector
-Added Room: Name=MCU
-Added Room: Name=Power_Supply
-Added Room: Name=Relay
-Added Room: Name=Shift_Regs
